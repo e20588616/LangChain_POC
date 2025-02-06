@@ -8,5 +8,5 @@
 1.DB_En_add_tw(公司中文版加英文版網頁)
 
 ### 測試結果
-![](https://imgur.com/a/JXpR4JV)
+[![](https://imgur.com/a/JXpR4JV)](https://i.imgur.com/3zlNcgm.jpeg)
 
