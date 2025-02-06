@@ -1,4 +1,4 @@
-## 使用Lang Graph + RAG + Megaforce網站資訊
+## 使用Lang Graph + RAG + 公司網站資訊（爬蟲）
 
 ### Lang Graph
 ![](https://i.imgur.com/bPimdTG.jpeg)
